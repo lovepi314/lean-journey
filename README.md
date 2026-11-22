@@ -1,9 +1,6 @@
 # lean-journey
 
-Lean 4를 배우는 기록입니다. (A log of my journey learning Lean 4.)
-
-- 시작: 2026년 11월
-- 관심 분야: 수학 형식화(formalization), 자동형식화(autoformalization)
+Lean 4 학습 기록
 
 ## 진행 상황
 
